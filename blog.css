@@ -1,0 +1,164 @@
+body{
+    background: #000;
+}
+
+.nev-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+padding: 10px 100px;
+
+}
+
+.nev-logo img{
+width: 200px;
+
+
+}
+.nev-logo button{
+
+border-radius: 30px;
+border: none;
+}
+
+.grow{
+color: #fff;
+align-items: center;
+display: flex;
+flex-direction: column;
+
+}
+
+.pic1 img{
+width: 750px;
+border-radius: 5px;
+
+}
+
+.pic1{
+display: flex;
+justify-content: center;
+gap: 100px;
+flex-direction: column;
+align-items: center;
+margin-bottom: 90px;
+
+}
+
+
+.inbox{
+background-color: #eb5757;
+justify-content: center;
+width: 600px;
+    flex-direction: column;
+    color: #171717;
+    margin: 120px auto;
+    padding: 50px;
+    height: 180px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+
+.inbox button{
+ border-radius: 5px;
+      padding: 10px;   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.product{
+color: #fff;
+display: flex;
+gap: 60px;
+justify-content:space-between;
+margin-top: 40px;
+padding:30px;
+font-size:1.4rem;
+--left-right-padding: 10.7vw;
+margin-bottom: 104px;
+position: sticky;
+left: 0;
+top: -5px;
+z-index: 10px;
+background-color: #000;
+/* border-style: dotted; */
+
+}
+.product p{
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.BLOG{
+color: #fff;
+display: flex;
+
+}
+
+.BLOG img{
+width: 400px;
+border-radius: 7px;
+
+}
+
+.PRE{
+color: #fff;
+display: flex;
+
+}
+
+.PRE img{
+width: 400px;
+border-radius: 7px;
+
+}
+
+.segi{
+color: #fff;
+display: flex;
+
+}
+
+.segi img{
+width: 400px;
+border-radius: 7px;
+
+}
+
+.Wakanow{
+    color: #fff;
+    display: flex;
+}
+
+.Wakanow img{
+width: 400px;
+border-radius: 7px;
+
+}
+.next{
+display: flex;
+justify-content: center;
+color: #fff;
+gap: 20px;
+font-size: 12px;
+}
